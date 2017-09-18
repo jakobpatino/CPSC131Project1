@@ -1,2 +1,2 @@
-# CPSC131Project1
-Grocery Scanner Project
+Group Members:
+Jakob Patino jakobpatino@csu.fullerton.edu
